@@ -8,7 +8,7 @@ function increment() {
 function decrement() {
     counter--;
     document.getElementById("count").textContent = counter;
-    if (counter < 0) {
+    if (counter <= 0) {
         alert("Smettila");
         counter = 0;
     }
