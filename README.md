@@ -17,9 +17,7 @@
 
 
 ## :star2: About the Project
-### A simple counter that at first sight you notice an initial value of zero, that using buttons increase ( + ) or decrease ( - ) the initial value.
-Note well;
-if in case you decrease the value below zero, there will be alert that stops you
+### A simple counter that at first sight you notice an initial value of zero, that using buttons increase ( + ) or decrease ( - ) the initial value. Note well; if in case you decrease the value below zero, there will be alert that stops you
 
 ## :warning: License
 
