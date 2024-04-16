@@ -16,6 +16,12 @@ Note well;
 if in case you decrease the value below zero, there will be alert that stops you
 
 
+# Image project
+
+![image](https://github.com/DemolitionWeb/Progetto-Javas-TommasoDominici/assets/136338661/cae02294-dcf0-4304-a6f3-81525ae06512)
+
+### Questa è lo screen del progetto del "counter"
+
 ## Authors
 
 - [@DemolitionWeb](https://www.github.com/DemolitionWeb)
